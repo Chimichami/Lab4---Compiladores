@@ -1,0 +1,13 @@
+fun int main()
+    var int x, y;
+    y = 100;
+    switch (y)
+        case 100:
+            x = 1
+        case 200:
+            x = 2
+    endswitch;
+
+    print(x);
+    return(0)
+endfun
